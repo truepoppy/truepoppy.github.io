@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://truepoppy.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://truepoppy.github.io/</loc>
+</url>
+<url>
+<loc>https://truepoppy.github.io/about.html</loc>
+<lastmod>2025-11-21T05:24:24+01:00</lastmod>
+</url>
+<url>
+<loc>https://truepoppy.github.io/hello.html</loc>
+<lastmod>2025-11-21T04:44:38+01:00</lastmod>
+</url>
+<url>
+<loc>https://truepoppy.github.io/reports.html</loc>
+<lastmod>2025-11-21T04:42:31+01:00</lastmod>
+</url>
+<url>
+<loc>https://truepoppy.github.io/someone.html</loc>
+<lastmod>2025-11-21T04:50:18+01:00</lastmod>
+</url>
+</urlset>
