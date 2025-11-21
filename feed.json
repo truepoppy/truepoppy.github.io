@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "astrology poppy",
+    "title": "♦️ true poppy",
     "description": "",
     "home_page_url": "https://truepoppy.github.io",
     "feed_url": "https://truepoppy.github.io/feed.json",
@@ -12,7 +12,7 @@
         {
             "id": "https://truepoppy.github.io/someone.html",
             "url": "https://truepoppy.github.io/someone.html",
-            "title": "Someone",
+            "title": "someone",
             "author": {
                 "name": "poppy."
             },
@@ -20,12 +20,12 @@
                    "analysis"
             ],
             "date_published": "2025-11-21T04:50:18+01:00",
-            "date_modified": "2025-11-21T04:50:18+01:00"
+            "date_modified": "2025-11-21T20:17:41+01:00"
         },
         {
             "id": "https://truepoppy.github.io/hello.html",
             "url": "https://truepoppy.github.io/hello.html",
-            "title": "Hello",
+            "title": "hello",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "poppy."
@@ -34,7 +34,7 @@
                    "reports"
             ],
             "date_published": "2025-11-20T21:10:26+01:00",
-            "date_modified": "2025-11-21T04:44:38+01:00"
+            "date_modified": "2025-11-21T20:17:45+01:00"
         }
     ]
 }

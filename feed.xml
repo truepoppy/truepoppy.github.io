@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>astrology poppy</title>
+    <title>♦️ true poppy</title>
     <link href="https://truepoppy.github.io/feed.xml" rel="self" />
     <link href="https://truepoppy.github.io" />
-    <updated>2025-11-21T04:50:18+01:00</updated>
+    <updated>2025-11-21T20:17:45+01:00</updated>
     <author>
         <name>poppy.</name>
     </author>
     <id>https://truepoppy.github.io</id>
 
     <entry>
-        <title>Someone</title>
+        <title>someone</title>
         <author>
             <name>poppy.</name>
         </author>
@@ -23,7 +23,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Hello</title>
+        <title>hello</title>
         <author>
             <name>poppy.</name>
         </author>
