@@ -3,43 +3,10 @@
     <title>♦️ true poppy</title>
     <link href="https://truepoppy.github.io/feed.xml" rel="self" />
     <link href="https://truepoppy.github.io" />
-    <updated>2025-11-21T20:17:45+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>poppy.</name>
     </author>
     <id>https://truepoppy.github.io</id>
 
-    <entry>
-        <title>someone</title>
-        <author>
-            <name>poppy.</name>
-        </author>
-        <link href="https://truepoppy.github.io/someone.html"/>
-        <id>https://truepoppy.github.io/someone.html</id>
-            <category term="analysis"/>
-
-        <updated>2025-11-21T04:50:18+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>hello</title>
-        <author>
-            <name>poppy.</name>
-        </author>
-        <link href="https://truepoppy.github.io/hello.html"/>
-        <id>https://truepoppy.github.io/hello.html</id>
-            <category term="reports"/>
-
-        <updated>2025-11-20T21:10:26+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>

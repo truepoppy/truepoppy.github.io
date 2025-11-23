@@ -9,32 +9,5 @@
         "name": "poppy."
     },
     "items": [
-        {
-            "id": "https://truepoppy.github.io/someone.html",
-            "url": "https://truepoppy.github.io/someone.html",
-            "title": "someone",
-            "author": {
-                "name": "poppy."
-            },
-            "tags": [
-                   "analysis"
-            ],
-            "date_published": "2025-11-21T04:50:18+01:00",
-            "date_modified": "2025-11-21T20:17:41+01:00"
-        },
-        {
-            "id": "https://truepoppy.github.io/hello.html",
-            "url": "https://truepoppy.github.io/hello.html",
-            "title": "hello",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "poppy."
-            },
-            "tags": [
-                   "reports"
-            ],
-            "date_published": "2025-11-20T21:10:26+01:00",
-            "date_modified": "2025-11-21T20:17:45+01:00"
-        }
     ]
 }
